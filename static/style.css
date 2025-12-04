@@ -1,0 +1,23 @@
+body {
+font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+background: #f6f8fb;
+margin: 0;
+padding: 0;
+}
+.container {
+max-width: 720px;
+margin: 48px auto;
+background: #fff;
+padding: 28px;
+border-radius: 12px;
+box-shadow: 0 6px 20px rgba(33,33,33,0.08);
+}
+h1 { margin: 0 0 18px 0; }
+.form { display: flex; gap: 8px; margin-bottom: 16px; }
+.form input[type="text"] { flex: 1; padding: 10px 12px; border-radius: 8px; border: 1px solid #e3e7ef; font-size: 16px; }
+.form button { padding: 10px 16px; border-radius: 8px; border: none; cursor: pointer; background: #2563eb; color: white; font-weight: 600; }
+.result { margin-top: 18px; text-align: center; }
+.result img { max-width: 260px; height: auto; display: block; margin: 12px auto; }
+.download { display: inline-block; margin-top: 8px; text-decoration: none; padding: 8px 12px; border-radius: 8px; background: #10b981; color: white; }
+.error { color: #b91c1c; }
+footer { margin-top: 22px; text-align: center; color: #6b7280; font-size: 14px; }
