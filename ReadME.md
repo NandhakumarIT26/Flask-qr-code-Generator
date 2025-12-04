@@ -47,7 +47,7 @@ Jinja2 Templates
 
 ▶️ Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/flask-qr-generator.git
+git clone https://github.com/NandhakumarIT26/flask-qr-generator.git
 cd flask-qr-generator
 
 2. Create Virtual Environment (optional but recommended)
