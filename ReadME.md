@@ -76,6 +76,9 @@ http://127.0.0.1:5000
 
 🖥️ How It Works
 
+![QR Code UI](screenshots/home.png)
+![QR Code UI](screenshots/demo.png)
+
 User enters a URL into the form
 
 Flask receives the input through POST
